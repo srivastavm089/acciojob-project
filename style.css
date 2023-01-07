@@ -1,0 +1,48 @@
+body{
+    background-color: #1E1E1E;
+}
+.main{
+    background-color: white;
+    height: 780px;
+    width: 600px;
+    position: absolute;
+    left: 500px;
+
+}
+.section{
+    padding-left: 15px;
+    
+}
+.section h1{
+display: inline;
+text-decoration: underline;
+
+}
+
+img{
+    height:200px;
+   
+    
+}
+
+
+.content{
+    
+    padding: 30px 30px 25px 35px;
+    
+}
+.content h1{
+    display: inline;
+    text-decoration: underline;
+  
+}
+.btm h1{
+    
+    display: inline;
+  
+}
+.btm-heading{
+   padding-left: 20px;
+   text-decoration: underline;
+}
+
